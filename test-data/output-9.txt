@@ -1,0 +1,4 @@
+No ship has been initialized
+
+SUCCESS
+usage: TORPEDO,<SINGLE|ALL>
